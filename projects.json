@@ -1,0 +1,10 @@
+{
+	"CubeX OOS (Online Operating System)": {
+    "Time Active": "June 2018 - November 2018",
+    "Status": "Bugs",
+		"Screenshot": "https://raw.githubusercontent.com/rocketbear27/rocketbear27.github.io/master/images/CubeX_OOS.png",
+		"Stack": "HTML, CSS, JavaScript",
+    "Description": "A web based operating system that is supposed to have the basic features of an operating systems. For example: changing styles of OS with settings, open/close window functionality, and a not secure login screen.",
+    "URL": "https://cubex-oos-release.glitch.me/"
+	}
+}
