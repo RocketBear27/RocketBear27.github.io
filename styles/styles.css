@@ -1,0 +1,85 @@
+/* 
+Formatted from most general styles at the top to the specific styles at the bottom. 
+*/
+::-webkit-scrollbar {
+  width: 18px;
+  background-color: #d4d4d4;
+}
+::-webkit-scrollbar-thumb {
+  background: #ff000099;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #fa474799;
+  border-radius: 2px;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  font-size: 18px;
+  background-color: #f5f5f5;
+}
+header {
+  font-size: 25px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+footer {
+  position: bottom;
+  font-size: 0.9em;
+}
+svg {
+  margin: 10px;
+  width: 40px;
+  height: 40px;
+}
+.nav_button {
+  padding: 20px;
+}
+.section {
+  margin: 30px;
+  margin-left: 150px; 
+}
+.break {
+  padding: 15px;
+}
+.social_icons {
+  padding: 16px;
+  background-color: #e4e4e4;
+  border: 1px #e4e4e4 solid;
+  border-radius: 15px;
+}
+#nav, footer {
+  padding: 25px;
+  border: #fd837a solid 2px;
+  background: #b4b4b4;
+background: linear-gradient(90deg, #b4b4b499 85%, #ff000099 100%);
+}
+#about {
+  margin: 30px;
+  margin-left: 125px;
+  font-size: 20px
+}
+#hello {
+  font-size: 1.5em; 
+  font-weight: 900;
+}
+#githubicon {
+  fill: #181717;
+}
+#dribbbleicon {
+  fill:#EA4C89;
+}
+#hashnodeicon {
+  fill: #2962FF;
+}
